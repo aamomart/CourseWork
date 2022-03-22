@@ -23,3 +23,10 @@ Here are all of the videos that I have referenced for development in my coursewo
 Here are all of the videos that I have referenced for testing in my coursework writeup
 
 * [Video 1: X move](https://drive.google.com/file/d/1ELLzUs3tzcCMy-arpCgljMB9RN0Umoe_/view?usp=sharing)
+* [Video 2: Y move](https://drive.google.com/file/d/16S_4maGntWV4_Jc1s4qPgvuMoCyHqEek/view?usp=sharing)
+* [Video 3: Fall test Y](https://drive.google.com/file/d/1ok6EVzy7D_Lh4ZXaZhvgmAEI5IRbB2nX/view?usp=sharing)
+* [Video 4: Fall test X](https://drive.google.com/file/d/1iE-LI2SqxmZKla6-P-1Fo9xG8yOjyeQ_/view?usp=sharing)
+* [Video 5: Platform Render Error](https://drive.google.com/file/d/1efFEgVkNi7hdchsbWvOX2jangY4nGwKM/view?usp=sharing)
+* [Video 6: Enemy Collision](https://drive.google.com/file/d/1ELR6Z-gCMu94xWK-dzNUwXFvi05LQS5C/view?usp=sharing)
+* [Video 7:]()
+* [Video 8:]()
