@@ -11,7 +11,7 @@ Here are all of the videos that I have referenced for development in my coursewo
 * [Video 5: New Render](https://drive.google.com/file/d/1ixpzZetl6v8jVqu715bLet9C7UKSnzVV/view?usp=sharing)
 * [Video 6: Gravity](https://drive.google.com/file/d/1cIj2wKRZfwB_Bu-TJnul9NQMQcqyeQWK/view?usp=sharing)
 * [Video 7: Platform](https://drive.google.com/file/d/1Xpj0dkmH-QsINq-CBSGmXyJt7vaprxYI/view?usp=sharing)
-* [Video 8:]()
+* [Video 8: Gravity Fail](https://drive.google.com/file/d/1pWH6fOGPKDjYk7VfrGhbNL9qCWByP_N4/view?usp=sharing)
 * [Video 9: Gravity Test 1](https://drive.google.com/file/d/18FqGDTHdKMSzU84U7E7LmQm9M6jwwP8q/view?usp=sharing)
 * [Video 10:]()
 * [Video 11:]()
